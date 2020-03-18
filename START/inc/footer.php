@@ -27,7 +27,7 @@
          <a href="" style="color: #4A4A4A; text-decoration: none; cursor: pointer;" class="remove-flex-mobile">Privacy Policy</a>
      </li>
      <li style="display: inline-block; padding-left: 5px; padding-right: 5px; margin-left: 0;">
-         <a href="" style="color: #4A4A4A; text-decoration: none; cursor: pointer;" class="remove-flex-mobile">Terms Of Use</a>
+         <a href="" style="color: #4A4A4A; text-decoration: none; cursor: pointer;" class="remove-flex-mobile">Terms Of Use tom le bg</a>
      </li>
      <li style="display: inline-block; padding-left: 5px; padding-right: 5px; margin-left: 0;">
          <a href="" style="color: #4A4A4A; text-decoration: none; cursor: pointer;" class="remove-flex-mobile">Contact Us</a>
