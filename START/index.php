@@ -21,7 +21,7 @@ include 'inc/header.php';
                         <img src="image-assets/hero.jpg" alt="email hero image" style="display: block; background-size: cover; width: 100%;">
                     </div>
 
-                    <h2 style="font-size: 32px; padding: 30px 20px 0 20px; margin-bottom: 0; text-transform: uppercase; color: #4A4A4A;">QUOI DE NEUF ?</h2>
+                    <h2 style="font-size: 32px; padding: 30px 20px 0 20px; margin-bottom: 0; text-transform: uppercase; color: #4A4A4A;">Salut Carca ?</h2>
 
                     <ul style="padding: 0 20px;">
                         <li style="list-style-type: none; padding-bottom: 50px; margin-left: 0;">
