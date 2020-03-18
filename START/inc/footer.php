@@ -1,6 +1,6 @@
  <!-- Footer -->
  <div style="background-color: #EAAF47; padding: 20px; text-align: center;">
-     <h5 style="margin-bottom: 10px;">Follow us on our social media accounts</h5>
+     <h5 style="margin-bottom: 10px;">Suivez nous sur les réseaux sociaux les frères</h5>
      <div style="padding-bottom: 10px; padding-top: 10px;" class="social-media">
          <a href="https://www.facebook.com/" style="color: #4A4A4A; text-decoration: none; cursor: pointer; padding: 0 5px;">
              <img src="image-assets/facebook.png" alt="facebook icon" style="width: 35px;">
